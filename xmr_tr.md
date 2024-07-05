@@ -14,18 +14,18 @@
 
 Cevrilmeyi bekleyen Monero terimleri
 
-| MONERO TERIMLERI |              |                                                                                                               |
-|------------------|--------------|---------------------------------------------------------------------------------------------------------------|
-| en               | tr           | kisa aciklama (varsa)                                                                                         |
-|------------------|--------------|---------------------------------------------------------------------------------------------------------------|
-| coin             | koin         | "akce", veya "demir para" demek estetik durmuyor.  "Coin" olarak birakmak da Turkce okuma kurallarina aykiri. |
-| cryptoanarchy    | kriptoanarşi | "kripto" burada "sakli", "gizli", "gomulu" anlam kokeninde.  Ama bu Turkce terimler estetik durmuyor.         |
-| cryptocurrency   | kriptopara   |                                                                                                               |
-| cypherpunk       |              |                                                                                                               |
-| libertarianism   |              |                                                                                                               |
-| liberterian      |              |                                                                                                               |
-| mine (verb)      |              |                                                                                                               |
-| mining           |              |                                                                                                               |
-| monero           |              |                                                                                                               |
-| peer-to-peer     |              |                                                                                                               |
-| proof-of-work    |              |                                                                                                               |
+| MONERO TERIMLERI |              |                                                                                                                   |
+|------------------|--------------|-------------------------------------------------------------------------------------------------------------------|
+| en               | tr           | kisa aciklama (varsa)                                                                                             |
+|------------------|--------------|-------------------------------------------------------------------------------------------------------------------|
+| coin             | koin         | "akce", veya "demir para" demek estetik durmuyor.  "Coin" olarak birakmak da Turkce okuma kurallarina aykiri.     |
+| cryptoanarchy    | kriptoanarşi | "kripto" burada "sakli", "gizli", "gomulu" anlam kokeninde.  Fakat "kripto" bu baglamda coktan yaygin kullanimda. |
+| cryptocurrency   | kriptopara   |                                                                                                                   |
+| cypherpunk       |              |                                                                                                                   |
+| libertarianism   |              |                                                                                                                   |
+| liberterian      |              |                                                                                                                   |
+| mine (verb)      |              |                                                                                                                   |
+| mining           |              |                                                                                                                   |
+| monero           |              |                                                                                                                   |
+| peer-to-peer     |              |                                                                                                                   |
+| proof-of-work    |              |                                                                                                                   |
