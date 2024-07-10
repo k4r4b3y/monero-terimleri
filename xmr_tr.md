@@ -14,53 +14,53 @@
 
 Cevrilmeyi bekleyen Monero terimleri
 
-| MONERO TERIMLERI            |              |                                                                                                                   |
-|-----------------------------|--------------|-------------------------------------------------------------------------------------------------------------------|
-| en                          | tr           | kisa aciklama (varsa)                                                                                             |
-|-----------------------------|--------------|-------------------------------------------------------------------------------------------------------------------|
-| coin                        | koin         | "akce", veya "demir para" demek estetik durmuyor.  "Coin" olarak birakmak da Turkce okuma kurallarina aykiri.     |
-| cryptoanarchy               | kriptoanarşi | "kripto" burada "sakli", "gizli", "gomulu" anlam kokeninde.  Fakat "kripto" bu baglamda coktan yaygin kullanimda. |
-| cryptocurrency              | kriptopara   |                                                                                                                   |
-| cypherpunk                  |              |                                                                                                                   |
-| libertarianism              |              |                                                                                                                   |
-| liberterian                 |              |                                                                                                                   |
-| mine (verb)                 |              |                                                                                                                   |
-| mining                      |              |                                                                                                                   |
-| monero                      |              |                                                                                                                   |
-| peer-to-peer                |              |                                                                                                                   |
-| proof-of-work               |              |                                                                                                                   |
-| network                     |              |                                                                                                                   |
-| node                        |              |                                                                                                                   |
-| decentralize (verb)         |              |                                                                                                                   |
-| decentralized (noun)        |              |                                                                                                                   |
-| tip                         |              |                                                                                                                   |
-| private                     |              |                                                                                                                   |
-| privacy                     |              |                                                                                                                   |
-| donation                    |              |                                                                                                                   |
-| app                         |              |                                                                                                                   |
-| wallet                      |              |                                                                                                                   |
-| paper wallet                |              |                                                                                                                   |
-| transaction                 |              |                                                                                                                   |
-| transaction pool            |              |                                                                                                                   |
-| block                       |              |                                                                                                                   |
-| block time                  |              |                                                                                                                   |
-| block height                |              |                                                                                                                   |
-| send                        |              |                                                                                                                   |
-| receive                     |              |                                                                                                                   |
-| private key                 |              |                                                                                                                   |
-| public key                  |              |                                                                                                                   |
-| blockchain                  |              |                                                                                                                   |
-| stealth address             |              |                                                                                                                   |
-| ring signature              |              |                                                                                                                   |
-| confidential transaction    |              |                                                                                                                   |
-| merchant                    |              |                                                                                                                   |
-| consensus                   |              |                                                                                                                   |
-| Byzantine generals' problem |              |                                                                                                                   |
-| Byzantine fault tolerance   |              |                                                                                                                   |
-| account (monero wallet)     |              |                                                                                                                   |
-| address (monero wallet)     |              |                                                                                                                   |
-| subaddress (monero wallet)  |              |                                                                                                                   |
-| fund(s)                     |              |                                                                                                                   |
-| emission                    |              |                                                                                                                   |
-| plausible deniability       |              |                                                                                                                   |
-| randomness                  |              |                                                                                                                   |
+| MONERO TERIMLERI            |                    |                                                                                                                   |
+|-----------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------|
+| en                          | tr                 | kisa aciklama (varsa)                                                                                             |
+|-----------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------|
+| coin                        | koin               | "akce", veya "demir para" demek estetik durmuyor.  "Coin" olarak birakmak da Turkce okuma kurallarina aykiri.     |
+| cryptoanarchy               | kriptoanarşi       | "kripto" burada "sakli", "gizli", "gomulu" anlam kokeninde.  Fakat "kripto" bu baglamda coktan yaygin kullanimda. |
+| cryptocurrency              | kriptopara         |                                                                                                                   |
+| cypherpunk                  |                    |                                                                                                                   |
+| libertarianism              |                    |                                                                                                                   |
+| liberterian                 |                    |                                                                                                                   |
+| mine (verb)                 |                    |                                                                                                                   |
+| mining                      |                    |                                                                                                                   |
+| monero                      |                    |                                                                                                                   |
+| peer-to-peer                |                    |                                                                                                                   |
+| proof-of-work               | harcanan-is-kaniti | Sadece "is kaniti" yetersiz.  Yapilan isin geri donulemez sekilde harcandigini da belirtmek iyi olur.             |
+| network                     |                    |                                                                                                                   |
+| node                        |                    |                                                                                                                   |
+| decentralize (verb)         |                    |                                                                                                                   |
+| decentralized (noun)        |                    |                                                                                                                   |
+| tip                         |                    |                                                                                                                   |
+| private                     |                    |                                                                                                                   |
+| privacy                     |                    |                                                                                                                   |
+| donation                    |                    |                                                                                                                   |
+| app                         |                    |                                                                                                                   |
+| wallet                      |                    |                                                                                                                   |
+| paper wallet                |                    |                                                                                                                   |
+| transaction                 |                    |                                                                                                                   |
+| transaction pool            |                    |                                                                                                                   |
+| block                       |                    |                                                                                                                   |
+| block time                  |                    |                                                                                                                   |
+| block height                |                    |                                                                                                                   |
+| send                        |                    |                                                                                                                   |
+| receive                     |                    |                                                                                                                   |
+| private key                 |                    |                                                                                                                   |
+| public key                  |                    |                                                                                                                   |
+| blockchain                  |                    |                                                                                                                   |
+| stealth address             |                    |                                                                                                                   |
+| ring signature              |                    |                                                                                                                   |
+| confidential transaction    |                    |                                                                                                                   |
+| merchant                    |                    |                                                                                                                   |
+| consensus                   |                    |                                                                                                                   |
+| Byzantine generals' problem |                    |                                                                                                                   |
+| Byzantine fault tolerance   |                    |                                                                                                                   |
+| account (monero wallet)     |                    |                                                                                                                   |
+| address (monero wallet)     |                    |                                                                                                                   |
+| subaddress (monero wallet)  |                    |                                                                                                                   |
+| fund(s)                     |                    |                                                                                                                   |
+| emission                    |                    |                                                                                                                   |
+| plausible deniability       |                    |                                                                                                                   |
+| randomness                  |                    |                                                                                                                   |
