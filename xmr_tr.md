@@ -28,7 +28,7 @@ Cevrilmeyi bekleyen Monero terimleri
 | mining                      |                    |                                                                                                                   |
 | monero                      |                    |                                                                                                                   |
 | peer-to-peer                |                    |                                                                                                                   |
-| proof-of-work               | harcanan-is-kaniti | Sadece "is kaniti" yetersiz.  Yapilan isin geri donulemez sekilde harcandigini da belirtmek iyi olur.             |
+| proof-of-work               | harcanan-iş-kanıtı | Sadece "is kaniti" yetersiz.  Yapilan isin geri donulemez sekilde harcandigini da belirtmek iyi olur.             |
 | network                     |                    |                                                                                                                   |
 | node                        |                    |                                                                                                                   |
 | decentralize (verb)         |                    |                                                                                                                   |
