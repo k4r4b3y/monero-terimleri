@@ -54,7 +54,7 @@ Cevrilmeyi bekleyen Monero terimleri
 | ring signature              |                    |                                                                                                                   |
 | confidential transaction    |                    |                                                                                                                   |
 | merchant                    |                    |                                                                                                                   |
-| consensus                   |                    |                                                                                                                   |
+| consensus                   | görüş birliği      |                                                                                                                   |
 | Byzantine generals' problem |                    |                                                                                                                   |
 | Byzantine fault tolerance   |                    |                                                                                                                   |
 | account (monero wallet)     |                    |                                                                                                                   |
