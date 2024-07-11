@@ -64,7 +64,7 @@ Cevrilmeyi bekleyen Monero terimleri
 | emission                    |                    |                                                                                                                   |
 | plausible deniability       |                    |                                                                                                                   |
 | randomness                  |                    |                                                                                                                   |
-| fungible                    | eş nitelikli       | "Misli," "misilli", vb, sacma duruyor.  Burada birimlerinin birbirleriyle es ozellikte oldugu vurgulanir.         |
+| fungible                    | eşnitelikli        | "Misli," "misilli", vb, sacma duruyor.  Burada birimlerinin birbirleriyle es ozellikte oldugu vurgulanir.         |
 | scarce                      | sınırlı            | Kisitli, ve sinirli miktarda oldugu anlaminda.  Miktar olarak sinirsiz degil.                                     |
 
 
