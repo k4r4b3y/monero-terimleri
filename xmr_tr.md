@@ -47,8 +47,8 @@ Cevrilmeyi bekleyen Monero terimleri
 | block height                |                    |                                                                                                                   |
 | send                        |                    |                                                                                                                   |
 | receive                     |                    |                                                                                                                   |
-| private key                 |                    |                                                                                                                   |
-| public key                  |                    |                                                                                                                   |
+| private key                 | gizli anahtar      |                                                                                                                   |
+| public key                  | acik anahtar       |                                                                                                                   |
 | blockchain                  |                    |                                                                                                                   |
 | stealth address             |                    |                                                                                                                   |
 | ring signature              |                    |                                                                                                                   |
