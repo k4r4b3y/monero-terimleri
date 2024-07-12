@@ -67,4 +67,5 @@ Cevrilmeyi bekleyen Monero terimleri
 | fungible                    | eşnitelikli                      | "Misli," "misilli", vb, sacma duruyor.  Burada birimlerinin birbirleriyle es ozellikte oldugu vurgulanir.         |
 | scarce                      | sınırlı                          | Kisitli, ve sinirli miktarda oldugu anlaminda.  Miktar olarak sinirsiz degil.                                     |
 | mnemonic                    | animsatici                       |                                                                                                                   |
+| timestamp                   | tarih damgasi                    |                                                                                                                   |
 
