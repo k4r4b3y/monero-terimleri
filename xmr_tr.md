@@ -50,7 +50,7 @@ Cevrilmeyi bekleyen Monero terimleri
 | private key                 | gizli anahtar      |                                                                                                                   |
 | public key                  | acik anahtar       |                                                                                                                   |
 | blockchain                  |                    |                                                                                                                   |
-| stealth address             |                    |                                                                                                                   |
+| stealth address             | hayalet adres      |                                                                                                                   |
 | ring signature              |                    |                                                                                                                   |
 | confidential transaction    |                    |                                                                                                                   |
 | merchant                    |                    |                                                                                                                   |
