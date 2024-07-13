@@ -68,4 +68,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | scarce                      | sınırlı                          | Kisitli, ve sinirli miktarda oldugu anlaminda.  Miktar olarak sinirsiz degil.                                     |
 | mnemonic                    | animsatici                       |                                                                                                                   |
 | timestamp                   | tarih damgasi                    |                                                                                                                   |
+| full wallet                 | tam cuzdan                       |                                                                                                                   |
+| light wallet                | hafif cuzdan                     |                                                                                                                   |
 
