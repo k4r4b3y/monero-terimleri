@@ -25,9 +25,9 @@ Cevrilmeyi bekleyen Monero terimleri
 | libertarianism              |                             |                                                                                                                   |
 | liberterian                 |                             |                                                                                                                   |
 | mine (verb)                 |                             |                                                                                                                   |
-| mining                      |                             |                                                                                                                   |
-| monero                      |                             |                                                                                                                   |
-| peer-to-peer                |                             |                                                                                                                   |
+| mining                      | uretim, veya, madencilik    | Baglama gore "uretim" kelimesi, "madencilik" demektense, agza daha iyi oturmakta.
+| monero                      | monero                      |                                                                                                                   |
+| peer-to-peer                | bireyden bireye             |                                                                                                                   |
 | proof-of-work               | harcanan-iş-kanıtı          | Sadece "is kaniti" yetersiz.  Yapilan isin geri donulemez sekilde harcandigini da belirtmek iyi olur.             |
 | network                     |                             |                                                                                                                   |
 | node                        |                             |                                                                                                                   |
