@@ -70,4 +70,5 @@ Cevrilmeyi bekleyen Monero terimleri
 | timestamp                   | tarih damgasi                    |                                                                                                                   |
 | full wallet                 | tam cuzdan                       |                                                                                                                   |
 | light wallet                | hafif cuzdan                     |                                                                                                                   |
+| balance                     | bakiye                           |                                                                                                                   |
 
