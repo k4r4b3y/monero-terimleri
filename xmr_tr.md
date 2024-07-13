@@ -57,10 +57,10 @@ Cevrilmeyi bekleyen Monero terimleri
 | consensus                   | görüş birliği               |                                                                                                                   |
 | Byzantine generals' problem | bizansli komutanlar sorunu  |                                                                                                                   |
 | Byzantine fault tolerance   | bizansli hata dayanikliligi |                                                                                                                   |
-| account (monero wallet)     |                             |                                                                                                                   |
-| address (monero wallet)     |                             |                                                                                                                   |
-| subaddress (monero wallet)  |                             |                                                                                                                   |
-| fund(s)                     |                             |                                                                                                                   |
+| account (monero wallet)     | hesap                       |                                                                                                                   |
+| address (monero wallet)     | adres                       |                                                                                                                   |
+| subaddress (monero wallet)  | alt adres                   |                                                                                                                   |
+| fund(s)                     | para                        |                                                                                                                   |
 | emission                    |                             |                                                                                                                   |
 | plausible deniability       |                             |                                                                                                                   |
 | randomness                  |                             |                                                                                                                   |
