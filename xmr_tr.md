@@ -71,4 +71,8 @@ Cevrilmeyi bekleyen Monero terimleri
 | full wallet                 | tam cuzdan                  |                                                                                                                   |
 | light wallet                | hafif cuzdan                |                                                                                                                   |
 | balance                     | bakiye                      |                                                                                                                   |
+| custodian                   | emanetci                    |                                                                                                                   |
+| custodial wallet            | emanetciye birakilan cuzdan | Kullanicinin emanetcilerini kendisi disinda kisi veya kuruma teslim ettigi Monero cuzdani                         |
+| self-custodial wallet       | ozemanetci cuzdan           | Kullanicinin anahtarlarindan kendisinin sorumlu oldugu Monero cuzdani                                             |
+
 
