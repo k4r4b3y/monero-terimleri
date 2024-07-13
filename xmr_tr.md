@@ -21,11 +21,11 @@ Cevrilmeyi bekleyen Monero terimleri
 | coin                        | koin                        | "akce", veya "demir para" demek estetik durmuyor.  "Coin" olarak birakmak da Turkce okuma kurallarina aykiri.     |
 | cryptoanarchy               | kriptoanarşi                | "kripto" burada "sakli", "gizli", "gomulu" anlam kokeninde.  Fakat "kripto" bu baglamda coktan yaygin kullanimda. |
 | cryptocurrency              | kriptopara                  |                                                                                                                   |
-| cypherpunk                  |                             |                                                                                                                   |
+| cypherpunk                  | sifrepunk                   | "Cypher" kelimesi arapca "sifr", "sifre" kelimesinden turemistir.  Oze donus.                                     |
 | libertarianism              |                             |                                                                                                                   |
 | liberterian                 |                             |                                                                                                                   |
 | mine (verb)                 |                             |                                                                                                                   |
-| mining                      | uretim, veya, madencilik    | Baglama gore "uretim" kelimesi, "madencilik" demektense, agza daha iyi oturmakta.
+| mining                      | uretim, veya, madencilik    | Baglama gore "uretim" kelimesi, "madencilik" demektense, agza daha iyi oturmakta.                                 |
 | monero                      | monero                      |                                                                                                                   |
 | peer-to-peer                | bireyden bireye             |                                                                                                                   |
 | proof-of-work               | harcanan-iş-kanıtı          | Sadece "is kaniti" yetersiz.  Yapilan isin geri donulemez sekilde harcandigini da belirtmek iyi olur.             |
