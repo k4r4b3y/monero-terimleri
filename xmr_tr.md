@@ -75,6 +75,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | custodial wallet            | emanetciye birakilan cuzdan | Kullanicinin emanetcilerini kendisi disinda kisi veya kuruma teslim ettigi Monero cuzdani                                         |
 | self-custodial wallet       | ozemanetci cuzdan           | Kullanicinin anahtarlarindan kendisinin sorumlu oldugu Monero cuzdani                                                             |
 | synchronize (verb)          | esitlemek                   | Genelde Monero cuzdaninin/dugumunun agdaki islemleri/bloklari tarayip, agin genel durumu ile esit duruma gecmesi icin kullanilir. |
-|                             |                             |                                                                                                                                   |
+| view key                    | gosteren anahtar            |                                                                                                                                   |
 
 
