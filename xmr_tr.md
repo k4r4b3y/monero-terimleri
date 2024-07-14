@@ -83,5 +83,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | range proof                 | aralik kaniti                |                                                                                                                                   |
 | network effect              | ag etkisi                    |                                                                                                                                   |
 | dynamic blocks              | esnek bloklar                |                                                                                                                                   |
+| incentive                   | egilim                             |                                                                                                                                   |
 
 
