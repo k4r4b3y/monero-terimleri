@@ -85,5 +85,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | dynamic blocks              | esnek bloklar                |                                                                                                                                   |
 | incentive                   | egilim                       |                                                                                                                                   |
 | tail emission               | ardil uretim                 |                                                                                                                                   |
+| mempool/txpool              | islem havuzu                 |                                                                                                                                   |
 
 
