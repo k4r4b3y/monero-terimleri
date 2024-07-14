@@ -79,5 +79,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | decoy                       | sahteler                     |                                                                                                                                   |
 | decoy selection             | sahtelerin secimi            |                                                                                                                                   |
 | decoy selection algorithm   | sahtelerin secim algoritmasi |                                                                                                                                   |
+| pedersen commitment         | pedersen ustlenlenme semasi  |                                                                                                                                   |
 
 
