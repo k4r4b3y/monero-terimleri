@@ -51,8 +51,8 @@ Cevrilmeyi bekleyen Monero terimleri
 | public key                  | acik anahtar                 |                                                                                                                                   |
 | blockchain                  |                              |                                                                                                                                   |
 | stealth address             | hayalet adres                |                                                                                                                                   |
-| ring signature              |                              |                                                                                                                                   |
-| confidential transaction    |                              |                                                                                                                                   |
+| ring signature              | cember imza                  |                                                                                                                                   |
+| confidential transaction    | gizli islem                  |                                                                                                                                   |
 | merchant                    |                              |                                                                                                                                   |
 | consensus                   | görüş birliği                |                                                                                                                                   |
 | Byzantine generals' problem | bizansli komutanlar sorunu   |                                                                                                                                   |
