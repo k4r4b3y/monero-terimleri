@@ -29,7 +29,7 @@ Cevrilmeyi bekleyen Monero terimleri
 | monero                      | monero                       |                                                                                                                                   |
 | peer-to-peer                | bireyden bireye              |                                                                                                                                   |
 | proof-of-work               | harcanan-iş-kanıtı           | Sadece "is kaniti" yetersiz.  Yapilan isin geri donulemez sekilde harcandigini da belirtmek iyi olur.                             |
-| network                     |                              |                                                                                                                                   |
+| network                     | ag                           |                                                                                                                                   |
 | node                        |                              |                                                                                                                                   |
 | decentralize (verb)         |                              |                                                                                                                                   |
 | decentralized (noun)        |                              |                                                                                                                                   |
@@ -81,5 +81,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | decoy selection algorithm   | sahtelerin secim algoritmasi |                                                                                                                                   |
 | pedersen commitment         | pedersen ustlenlenme semasi  |                                                                                                                                   |
 | range proof                 | aralik kaniti                |                                                                                                                                   |
+| network effect              | ag etkisi                    |                                                                                                                                   |
 
 
