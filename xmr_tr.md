@@ -61,7 +61,7 @@ Cevrilmeyi bekleyen Monero terimleri
 | address (monero wallet)     | adres                        |                                                                                                                                   |
 | subaddress (monero wallet)  | alt adres                    |                                                                                                                                   |
 | fund(s)                     | para                         |                                                                                                                                   |
-| emission                    |                              |                                                                                                                                   |
+| emission                    | uretim egrisi                             |                                                                                                                                   |
 | plausible deniability       | gercekci yadsima             |                                                                                                                                   |
 | randomness                  |                              |                                                                                                                                   |
 | fungible                    | eşnitelikli                  | "Misli," "misilli", vb, sacma duruyor.  Burada birimlerinin birbirleriyle es ozellikte oldugu vurgulanir.                         |
@@ -83,6 +83,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | range proof                 | aralik kaniti                |                                                                                                                                   |
 | network effect              | ag etkisi                    |                                                                                                                                   |
 | dynamic blocks              | esnek bloklar                |                                                                                                                                   |
-| incentive                   | egilim                             |                                                                                                                                   |
+| incentive                   | egilim                       |                                                                                                                                   |
 
 
