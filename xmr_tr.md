@@ -82,5 +82,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | pedersen commitment         | pedersen ustlenlenme semasi  |                                                                                                                                   |
 | range proof                 | aralik kaniti                |                                                                                                                                   |
 | network effect              | ag etkisi                    |                                                                                                                                   |
+| dynamic blocks              | esnek bloklar                |                                                                                                                                   |
 
 
