@@ -80,5 +80,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | decoy selection             | sahtelerin secimi            |                                                                                                                                   |
 | decoy selection algorithm   | sahtelerin secim algoritmasi |                                                                                                                                   |
 | pedersen commitment         | pedersen ustlenlenme semasi  |                                                                                                                                   |
+| range proof                 | aralik kaniti                |                                                                                                                                   |
 
 
