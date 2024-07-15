@@ -86,5 +86,6 @@ Cevrilmeyi bekleyen Monero terimleri
 | incentive                   | egilim                       |                                                                                                                                   |
 | tail emission               | ardil uretim                 |                                                                                                                                   |
 | mempool/txpool              | islem havuzu                 |                                                                                                                                   |
+| fork                        | catal, catallanma            |                                                                                                                                   |
 
 
