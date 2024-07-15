@@ -87,6 +87,10 @@ Cevrilmeyi bekleyen Monero terimleri
 | tail emission               | ardil uretim                 |                                                                                                                                   |
 | mempool/txpool              | islem havuzu                 |                                                                                                                                   |
 | fork                        | catal, catallanma            |                                                                                                                                   |
-| time preference             | zaman tercihi                             |                                                                                                                                   |
+| time preference             | zaman tercihi                |                                                                                                                                   |
+| long time preference        | uzak zaman tercihi           |                                                                                                                                   |
+| short time preference       | yakin zaman tercihi          |                                                                                                                                   |
+| high time preference        | yakin zaman tercihi          |                                                                                                                                   |
+| low time preference         | uzak zaman tercihi           |                                                                                                                                   |
 
 
