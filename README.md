@@ -1,6 +1,6 @@
-#+title: Monero Terimleri Turkce Sozlugu
+# Monero Terimleri Turkce Sozlugu
 
-* Genel yaklasim
+## Genel yaklasim
 
 1. Her seyden once estetik.  Monero teriminin turkce karsiliklari
    agzinizdan ciktiktan sonra sizi utandirmamali, "su anda amma da
@@ -11,7 +11,7 @@
    duyulduklarindaki garipliklerini yitirebilirler.  "Tohum kelime"
    ornegi bunlardan birisi.
 
-* Monero Terimleri
+## Monero Terimleri
 
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
