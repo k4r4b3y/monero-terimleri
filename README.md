@@ -18,7 +18,7 @@
 +--------------+-----------------------+----------------------------------------------------------------------------------+
 | en           | tr                    | kisa aciklama (varsa)                                                            |
 +--------------+-----------------------+----------------------------------------------------------------------------------+
-| coin         | koin                  |   "akce", veya "demir para" demek estetik durmuyor.  "Coin" olarak birakmak da   |              
+| coin         | koin                  |   "akce", veya "demir para" demek estetik durmuyor.  "Coin" olarak birakmak da   |
 |              |                       |                         Turkce okuma kurallarina aykiri.                         |
 |              |                       |                                                                                  |
 |              |                       |                                                                                  |
