@@ -283,5 +283,5 @@
 
 ---
 
-![This project is powered by emacs](powered_by_emacs.svg)
-![This project is powered by emacs](powered_by_org_mode.svg)
+![This project is powered by emacs](src/powered_by_emacs.svg)
+![This project is powered by emacs](src/powered_by_org_mode.svg)
