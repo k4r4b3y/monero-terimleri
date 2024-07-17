@@ -263,3 +263,11 @@
 |preference    |                       |                                                                                  |
 |              |                       |                                                                                  |
 +--------------+-----------------------+----------------------------------------------------------------------------------+
+|clearnet      |acik ag, acikag        |Baglanti paketlerinin takip edilebildigi, ve genelde DNS sisteminie dayanan       |
+|              |                       |inetnet agi.  Bu agda ziyaret ettigin web sitelerini senin internet saglayaicin,  |
+|              |                       |ve dolayisiyla hukumetin, gorebilir.  Baglanti yasaklari getirebilir.             |
++--------------+-----------------------+----------------------------------------------------------------------------------+
+|darknet       |gizli ag, gizliag      |Tor, I2P gibi teknolojiler sayesinde ziyaret ettigin sitelerin izinin             |
+|              |                       |surulemedigi, sansure dayanikli internet aglari.                                  |
+|              |                       |                                                                                  |
++--------------+-----------------------+----------------------------------------------------------------------------------+
